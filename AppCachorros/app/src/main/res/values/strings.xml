@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCachorros</string>
+    <string name="app_titulo">Bem Vindo ao App Cachorros</string>
+    <string name="bt_cad_titulo">Cadastrar Cachorro</string>
+    <string name="bt_list_titulo">Listar Cachorros</string>
+    <string name="cao_indicado">Cachorros indicados para crianças:</string>
+    <string name="cao_nao_ind">Cachorros não indicados para crianças:</string>
+    <string name="total_cachorros">Total de Cachorros:</string>
+    <string name="cachorro_amigavel">O Cachorro é indicado para criança?</string>
+</resources>
