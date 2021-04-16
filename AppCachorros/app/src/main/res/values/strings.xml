@@ -7,4 +7,6 @@
     <string name="cao_nao_ind">Cachorros não indicados para crianças:</string>
     <string name="total_cachorros">Total de Cachorros:</string>
     <string name="cachorro_amigavel">O Cachorro é indicado para criança?</string>
+    <string name="raca_cachorro">Raça do Cachorro</string>
+    <string name="preco_cachorro">Preço do Cachorro</string>
 </resources>

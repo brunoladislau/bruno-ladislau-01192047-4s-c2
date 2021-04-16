@@ -10,21 +10,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/layout_topo"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        tools:ignore="UseSwitchCompatOrMaterialXml">
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/et_racaCachorro"
-            android:hint="Raça do Cachorro"
+            android:hint="@string/raca_cachorro"
             android:inputType="text"
             />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/et_precoCachorro"
-            android:hint="Preço Médio do Cachorro"
+            android:id="@+id/et_preco_cachorro"
+            android:hint="@string/preco_cachorro"
             android:inputType="numberDecimal"
             android:layout_marginTop="30dp"
             />

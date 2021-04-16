@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun cadastrar(view: View) {
-
         val telaCadastro = Intent(this, TelaCadastro::class.java)
         startActivity(telaCadastro)
     }
